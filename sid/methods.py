@@ -1,0 +1,6 @@
+AM_LARSEN = "larsen"
+DM_CENTROID = "centroid"
+DM_BISECCION = "biseccion"
+DM_FIRSTMAX = "first_max"
+DM_LASTMAX = "last_max"
+DM_AVEMAX = "ave_max"
